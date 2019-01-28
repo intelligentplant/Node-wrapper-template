@@ -1,0 +1,32 @@
+{
+  "name": "intelligentplantnodewrapper",
+  "description": "Oauth2 module for the Intelligent Plant AppStore API.",
+  "version": "1.0.0",
+  "main": "lib/intelligentplant.js",
+  "scripts": {},
+  "keywords": [
+    "IntelligentPlant",
+    "api",
+    "node.js",
+    "oauth2"
+  ],
+  "author": "Stefan Rudvin",
+  "bugs": {
+    "url": "https://github.com/intelligentplant/node-api/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "morgan": "~1.9.0",
+    "node-sass-middleware": "0.11.0",
+    "pug": "2.0.0-beta11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/intelligentplant/Node-wrapper-template.git"
+  },
+  "homepage": "https://github.com/intelligentplant/Node-wrapper-template.git"
+}
