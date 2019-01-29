@@ -1,6 +1,6 @@
 {
-  "name": "intelligentplant-node-api",
-  "description": "Oauth2 module for the Intelligent Plant AppStore API.",
+  "name": "@intelligentplant/app-store-api",
+  "description": "Library for authenticating and calling the Intelligent Plant App Store API.",
   "version": "1.0.0",
   "main": "lib/intelligentplant.js",
   "scripts": {},
