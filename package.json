@@ -1,5 +1,5 @@
 {
-  "name": "intelligentplantnodewrapper",
+  "name": "intelligentplant-node-api",
   "description": "Oauth2 module for the Intelligent Plant AppStore API.",
   "version": "1.0.0",
   "main": "lib/intelligentplant.js",
@@ -17,12 +17,6 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",
-    "cookie-parser": "~1.4.3",
-    "debug": "~2.6.9",
-    "express": "~4.16.0",
-    "morgan": "~1.9.0",
-    "node-sass-middleware": "0.11.0",
-    "pug": "2.0.0-beta11",
     "qs": "^6.6.0"
   },
   "repository": {
