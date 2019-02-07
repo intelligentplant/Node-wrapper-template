@@ -19,5 +19,8 @@
     "type": "git",
     "url": "https://github.com/intelligentplant/js-app-store-api"
   },
-  "homepage": "https://github.com/intelligentplant/js-app-store-api"
+  "homepage": "https://github.com/intelligentplant/js-app-store-api",
+  "dependencies": {
+    "qs": "^6.6.0"
+  }
 }
