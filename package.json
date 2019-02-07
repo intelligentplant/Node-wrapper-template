@@ -12,16 +12,12 @@
   ],
   "author": "Stefan Rudvin",
   "bugs": {
-    "url": "https://github.com/intelligentplant/node-api/issues"
+    "url": "https://github.com/intelligentplant/js-app-store-api/issues"
   },
   "license": "MIT",
-  "dependencies": {
-    "axios": "^0.18.0",
-    "qs": "^6.6.0"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/intelligentplant/Node-wrapper-template.git"
+    "url": "https://github.com/intelligentplant/js-app-store-api"
   },
-  "homepage": "https://github.com/intelligentplant/Node-wrapper-template.git"
+  "homepage": "https://github.com/intelligentplant/js-app-store-api"
 }
